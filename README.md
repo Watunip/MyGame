@@ -9,4 +9,9 @@ Télecharger le build [ici](https://drive.google.com/file/d/1UVJ2_8_A3h4h1E8SPca
 
 Pour les retours & questions, vous pouvez me les poser dans mes issues ou alors par mail.
 
-
+Z: Avancer
+S: Reculer
+Q: Gauche
+D: Droite
+Space: Sauter
+L Shift: Courir
