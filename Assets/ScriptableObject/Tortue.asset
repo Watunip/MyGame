@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d89695cf2dc6eed4d8f110a3dd6fa8a0, type: 3}
+  m_Name: Tortue
+  m_EditorClassIdentifier: 
+  ID: 0
+  DisplayName: Tortue
+  Description: L'item tortue
+  Icon: {fileID: -427147400, guid: 3b68d6df40e43204189aead50c3d46a0, type: 3}
+  MaxStackSize: 5
